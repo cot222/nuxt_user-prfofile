@@ -6,6 +6,7 @@
 # install dependencies
 $ npm install
 
+# npm run dev - запуск, во vuex вшиты данные юзера,с которыми происходит сравнени(имитация запроса к бд),правильные данные логин TEST пароль TEST
 # serve with hot reload at localhost:3000
 $ npm run dev
 
